@@ -1,0 +1,11 @@
+[project]
+name = "django-htmx-udemy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=5.2.8",
+    "django-browser-reload>=1.21.0",
+    "django-extensions>=4.1",
+]
